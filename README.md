@@ -13,7 +13,7 @@ This HR Analytics Dashboard is designed using Power BI to provide insights into 
 ## Getting Started
 
 1. Clone or download the repository to your local machine.
-2. Open the Power BI file (`HR_Analytics_Dashboard.pbix`) using Power BI Desktop.
+2. Open the Power BI file (`HR Dashboard.pbix`) using Power BI Desktop.
 3. Connect the dashboard to your HR data source or import sample data provided in the repository.
 4. Customize the visuals, filters, and slicers as per your HR analytics requirements.
 5. Explore the dashboard and gain actionable insights into your HR data.
